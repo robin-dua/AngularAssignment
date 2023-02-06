@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "firstname": "Robin",
+      "lastname": "Dua",
+      "birthdate": "1999-10-08",
+      "gender": "male",
+      "education": "post graduate",
+      "company": "L & G Consultancy",
+      "jobExperience": 1,
+      "salary": 200000,
+      "profile": "avatar.jpeg",
+      "id": 1
+    },
+    {
+      "firstname": "Rohit",
+      "lastname": "Kumar",
+      "birthdate": "2023-02-05",
+      "gender": "male",
+      "education": "10th pass",
+      "company": "MicroSoft",
+      "jobExperience": 1,
+      "salary": 20000,
+      "profile": "avatar.jpeg",
+      "id": 2
+    },
+    {
+      "firstname": "Mehar",
+      "lastname": "Singh",
+      "birthdate": "2023-02-05",
+      "gender": "female",
+      "education": "diploma",
+      "company": "Google",
+      "jobExperience": 1,
+      "salary": 10000,
+      "profile": "avatar.jpeg",
+      "id": 3
+    },
+    {
+      "firstname": "Mohan",
+      "lastname": "Kumar",
+      "birthdate": "2023-02-05",
+      "gender": "male",
+      "education": "diploma",
+      "company": "L & T",
+      "jobExperience": 1,
+      "salary": 10000,
+      "profile": "avatar.jpeg",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
